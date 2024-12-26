@@ -29,15 +29,15 @@ let user: User = {
 
 
 //new type by adding more types altogether
-
 type cardDate = {
     cardDate: string;
 }
 type cardNo = {
     cardNo: number;
 }
-
 //creation of a type by adding 3 types
 type cardDetails = cardDate & cardNo & {
     cvv: number;
 }
+
+

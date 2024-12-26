@@ -54,7 +54,7 @@ console.log(login("Rasel", true));
 
 
 //with default parameter
-function group(grpName: string, isAcrive: boolean = true){
+function group(grpName: string, isActive: boolean = true){
     console.log(`${grpName} is working.`);
 }
 group("Geology");
