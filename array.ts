@@ -14,4 +14,4 @@ allStudents.push({name: "Mahdi", isActive: true});
 
 //2D array
 
-let matrix: number[][] = [ [1 , 2], [7, 5] ];
+let matrix: number[][] = [ [], [] ];
