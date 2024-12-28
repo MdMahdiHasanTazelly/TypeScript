@@ -35,6 +35,8 @@ function addTwo(n: number){
 console.log(addTwo(3));
 
 
+//WITHOUT RETURN TYPE
+
 //normal function
 function signUp(name: string, id: number){
     console.log(`Name : ${name} ----ID: ${id}`);
